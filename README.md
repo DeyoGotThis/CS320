@@ -1,4 +1,4 @@
-CS320
+# CS320
 Software Test/Automation
 
      To ensure that my software is both functional and secure, I like to implement multiple testing strategies as well as logical security measures throughout the process of development.  Static testing helps to identify any errors or defects early on in the process by reviewing requirements, design plans, and code before running any part of the program.  I want to ensure that everything is in order and lacks simple errors that can potentially build up into larger problems further on down the line.  Unit and integration testing help identify issues that might arise as the process moves along.  Implementing these testing strategies throughout help keep the product secure and well within the bounds of user expectations.
